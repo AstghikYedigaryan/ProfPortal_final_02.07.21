@@ -1,0 +1,32 @@
+.wrap_ADS {
+    /* display: inline-flex; */
+    width: 25%;
+    border: 1px solid silver;
+    border-radius: 2px;
+    height: fit-content;
+
+}
+.wrap_ADS  h3{
+text-align: center;
+}
+
+.advertising {
+    width: 100%;
+    padding: 3%;
+    text-align: center;
+  
+}
+
+.advertising a {
+    width: 80%;
+    margin:  2vh auto;
+    text-align: center;
+    align-items: center;
+}
+
+.advertising_img {
+    width: 50%;
+margin:  0 auto;
+display: block;
+margin-bottom: 2%;
+}

@@ -1,0 +1,185 @@
+{
+    "users": [
+        {
+            "id": "1",
+            "name": "Irina",
+            "surname": "Torosyan",
+            "city": "Vanadzor",
+            "male": "female"
+        },
+        {
+            "id": "2",
+            "name": "Tatev",
+            "surname": "Aharonyan",
+            "city": "Gyumri",
+            "male": "female"
+        },
+        {
+            "id": "3",
+            "name": "Astghik",
+            "surname": "Edigaryan",
+            "city": "Yerevan",
+            "male": "female"
+        }
+    ],
+    "posts": [
+        {
+            "id": "1",
+            "name": "Astghik Edigaryan",
+            "title": "Incapsulation",
+            "img": "https://scontent.fevn12-1.fna.fbcdn.net/v/t1.6435-9/201874089_307347627772324_3782154597344627479_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=730e14&_nc_ohc=nwHc2chkuCkAX8tj9y1&_nc_ht=scontent.fevn12-1.fna&oh=a7e56032e0217a6ae54161ecea8591a4&oe=60D89DA7",
+            "info": "Ինկապսուլյացիա (անգլ․ encapsulation բառից) եզրը կարելի է հասկանալ որպես ինչ֊որ բանի մեկուսացում, դրա վրա դրսից արտաքին միջամտությունները բացառելու կամ հնարավորինս փոքրացնելու համար։ Այն կարելի է ընկալել նաև որպես մեխանիզմ, որը մեզ հնարավորություն է տալիս տեսնել գլխավորն ու կարևորը՝ երկրորդական կամ խանգարող բաները ինչ֊որ պայմանական կապսուլի մեջ սահմանափակելով։",
+            "location": "Vanadzor, Armenia",
+            "date":"20 june, 2021"
+        },
+        {
+            "id": "2",
+            "name": "Tatev Aharonyan",
+            "title": "Types",
+            "img": "https://scontent.fevn12-1.fna.fbcdn.net/v/t1.6435-9/130751612_173623731144715_3220808934906990695_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=730e14&_nc_ohc=J4W-ktWG4csAX-hrdN4&_nc_ht=scontent.fevn12-1.fna&oh=5d46b703adceb92035098aaaa504ac98&oe=60D9BE22",
+            "imfo": "JavaScript-ը չափազանց հանդուրժողական վերաբերմունք ունի տարբեր տիպերին պատկանող արժեքներով թվաբանական կամ այլ տիպի օպերացիաների կատարման հարցում։ Այն դեպքում, երբ օպերատորը կամ ֆունկցիան սպասում են որ օպերանդի կամ արգումենտի արժեքը պետք է լինի ասենք թե թվային, սակայն նա ստանում է տողային արժեք, ապա սխալ վերադարձնելու փոխարեն լեզվի ինտերպրետատորը փորձում է այն վերափոխել թվային արժեքի և շարունակել ծրագրի անխափան աշխատանքը",
+            "location": "Gyumri, Armenia",
+            "date":"21 june, 2021"
+        },
+        {
+            "id": "3",
+            "name": "Irina Torosyan",
+            "title": "Ի՞նչ է անագրամը",
+            "img": "https://scontent.fevn12-1.fna.fbcdn.net/v/t1.6435-9/120427034_129520238888398_6534729606029088849_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=730e14&_nc_ohc=us86ElmBEaoAX9-YR2l&tn=CkCln2Nvb3eQYeT8&_nc_ht=scontent.fevn12-1.fna&oh=07374823e720ecf0bf83fef553f55d8c&oe=60D8DD6B",
+            "info": "Անագրամա, երբեմն անվանում են նաև շրջագրում ( հունարեն՝ αναγράμμα - «տառերի տեղափոխում» )։ Այն գրական հնարանք է, որն օգտագործվում է բառի նույն տառերի տարբեր դասավորությամբ նոր բառեր ստանալու նպատակով։ Օրինակ «երգ» բառի անագրամ կարող է հանդիսանալ «գեր» բառը։",
+            "location": "Yerevan, Armenia",
+            "date":"21 june, 2021"
+        },
+        {
+            "id": "4",
+            "name": "Astghik Edigaryan",
+            "title": "Խիստ ռեժիմը JavaScript-ում(Strict mode):",
+            "img": "https://scontent.fevn12-1.fna.fbcdn.net/v/t1.6435-9/120323658_128576608982761_6304127193770745031_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=730e14&_nc_ohc=qt5gM1ft13EAX-R_sJT&_nc_ht=scontent.fevn12-1.fna&oh=1a1e751544fa3b61feaaa92803ef69b4&oe=60D89C28",
+            "info": "JavaScript լեզուն ստեղծվել է հեռավոր 1995 թվականին։ Որպեսզի վեբ դիզայներների համար հնարավորինս հեշտ լինի սովորել այն,լեզվի սկզբնական տարբերակում հրաժարվեցին բարդ կոնստրուկցիաներ կիրառելուց,իսկ սուղ ժամանակը,որում խնդիր էր դրվել ստեղծել լեզուն,պատճառ դարձավ,որ լեզվում տեղ գտնեն մի շարք սխալներ և անկատարություններ։",
+            "location": "Vanadzor, Armenia",
+            "date":"22 june, 2021"
+        },
+        {
+            "id": "5",
+            "name": "Tatev Aharonyan",
+            "title": "Ի՞նչ է NaN-ը և ինչպե՞ս ստուգել արժեքն արդյոք հավասար է NaN-ի, թե ոչ",
+            "img": "https://scontent.fevn12-1.fna.fbcdn.net/v/t1.6435-9/120216691_128141679026254_4729697386307445919_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=730e14&_nc_ohc=dbhqUK_aZ2cAX_hg_8D&tn=CkCln2Nvb3eQYeT8&_nc_ht=scontent.fevn12-1.fna&oh=3d22d801a916408da6d63800b9d73925&oe=60D906B6",
+            "info": "JavaScript-ում թվերը ներկայացվում են IEEE 754 ստանդարտով սահմանված double-precision ( երբեմն ուղղակի անվանում են Double ) ձևաչափով։ Վերջին լրացումներն այս ստանդարտի մեջ արվել են 2008 թվականին։",            
+            "location": "Gyumri, Armenia",
+            "date":"22 june, 2021"
+        },
+        {
+            "id": "6",
+            "name":"Irina Torosyan",
+            "title": "Girls in Tech - Armenia",
+            "img": "https://scontent.fevn12-1.fna.fbcdn.net/v/t1.6435-9/184430977_1583025758555216_425595867754511355_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=cQF5qyDN0pMAX999XH4&tn=CkCln2Nvb3eQYeT8&_nc_ht=scontent.fevn12-1.fna&oh=7803216ca90970cb5d4897c4f84d8201&oe=60D9279C",
+            "info": "10 команд молодых светлых умов из каждого региона Армении прошли путь, который мы назвали #Hacking4Future. Старшеклассники собрались вместе для решения проблемы сообщества через мобильное приложение и почти готовы конкурировать с их решениями. Теперь ваша очередь мотивировать их и поддерживать финансово или своими продуктами в качестве призов, чтобы отпраздновать их усилия и поощрять их к дальнейшим достижениям.",            
+            "location": "Yerevan, Armenia",
+            "date": "23 june, 2021"
+        },
+        {
+            "id": "7",
+            "name":"Astghik Edigaryan",
+            "title": "Codeschool-ում մեկնարկում ենք JAVASCRIPT-ի նոր դասընթաց ",
+            "img": "https://scontent.fevn12-1.fna.fbcdn.net/v/t1.6435-9/180105963_3635197469919027_6823653741932888710_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=vlHk_TXQSC8AX8qcKHL&_nc_ht=scontent.fevn12-1.fna&oh=5a253bd9f02ca662c5b39e5e3398bd0f&oe=60DA1CF9",
+            "info": "Եթե որոշել ես դառնալ հզոր WEB ծրագրավորող, սակայն չունես նախնական գիտելիքներ և ցանկանում ես սովորել 0-ից, ապա այս դասընթացը հենց քեզ համար է։ JavaScript դասընթացին կսովորես այն բոլոր տեխնոլոգիաները, կփոխանցենք քեզ անհրաժեշտ այն բոլոր գիտելիքներն ու փորձը, որոնք կարևոր պայման են մրցունակ Front-end ծրագրավորող դառնալու համար։",            
+            "location": "Vanadzor, Armenia",
+            "date": "23 june, 2021"
+        },
+        {
+            "id": "8",
+            "name": "Irina Torosyan",
+            "title": "Bootstrap-ի 5֊րդ ստաբիլ տարբերակը",
+            "img": "https://scontent.fevn12-1.fna.fbcdn.net/v/t1.6435-9/184692826_280168743823546_5887065603313204563_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=730e14&_nc_ohc=sbfQdtHrjncAX8mvFDS&tn=CkCln2Nvb3eQYeT8&_nc_ht=scontent.fevn12-1.fna&oh=5441466015f52cd9445a93d0d816ef0b&oe=60D999BB",
+            "info": "Bootstrap CSS ֆրեյմվորքն իրենց ամենօրյա աշխատանքում երևի թե գոնե մեկ անգամ օգտագործել են, կամ այժմ էլ շարունակում են օգտագործել վեբ ծրագրավորողների մեծամասնությունը։ Երեք ալֆա, երեք բետտա տարբերակների թողարկումից, մի քանի ամիս ինտենսիվ մշակումներից ու խմբագրումներից հետո, մի քանի օր առաջ վերջապես թողարկվեց նաև Bootstrap 5-ի ստաբիլ տարբերակը։",            
+            "location": "Gyumri, Armenia",
+            "date": "24 june, 2021"
+        },
+        { 
+            "id": "9", 
+            "name": "Khachaturov Group",
+            "title": "UI/UX Designer",
+            "img": "https://job.am/upload/logo/21286157logo.png", 
+            "info": " UI/UX Designer Job Responsibilities. \n Leading the design of clients’ mobile apps and websites; \n Identifying clients’ niche, conducting user experience analysis, collaborating with the marketing team; \n Developing a deep understanding of user goals and behaviors; Creating wireframes, storyboards, user flows, process flows and site maps to effectively communicate interaction and design ideas; \n Creating a tailored design based on pre-conducted analysis, which meets the user experience and user interests; \n \n UI/UX Designer Experience and Qualifications; \n 3+ years’ experience in UI/UX design; \n Experience in structuring and designing sales funnels/landing pages; \n Good analytical skills;\n \n Professionalism level: Senior; \n \n Salary: Commission-based without any upper limits; \n \n Working hours: Negotiable.",
+            "location": "Yerevan, Armenia",
+            "date": "24 june, 2021"
+
+},
+          { 
+            "id": "10", 
+            "name": "VSS Trucking",
+            "title": "Logistic Manager/ Dispatcher",
+            "img": "https://job.am/upload/logo/no-logo.svg", 
+            "info": "American cargo carrier company is looking for a reliable logistics/dispatcher. The successful candidate for this position needs to be able to adjust to last-minute changes and work with drivers to schedule emergency pick-up or delivery for new or established clients when necessary. \n \n Requirements \n Higher education \n Communicational skills \n    Fluency in English \n  Ability to work in a team \n Sense of responsibility \n \n  Responsibilities \n Organize and control the whole process of cargo transportation \n              Communicate via phones and emails with shippers  \n Negotiate and make mutually beneficial deals \n Constantly stay in touch with drivers \n \n Additional notes \n Our company is an American Logistic Company. \n  The salary is transactional (Average salary 600,000AMD). \n The office is located at Republic Square. \n  Working schedule: Monday through Friday 16:00-01:00.",
+            "location": "Yerevan, Armenia",
+            "date": "25 june, 2021"
+
+        },
+          { 
+              "id": "11", 
+              "name": "VENGE Engineering",
+              "title": "Financial Assistant",
+              "img": "https://job.am/upload/logo/t_22497796logo.png", 
+              "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",             
+              "location": "Yerevan, Armenia",
+              "date": "24 june, 2021"
+            },
+            { 
+              "id": "12", 
+              "name": "VENGE Engineering",
+              "title": "Financial Controller / Accountant",
+              "img": "https://job.am/upload/logo/t_22497796logo.png", 
+              "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+              "location": "Yerevan, Armenia",
+              "date": "24 june, 2021"
+            },
+            { 
+                "id": "13", 
+              "name": "Art Production",
+              "title": "Interior Designer",
+              "img": "https://job.am/upload/logo/t_2180449logo.png", 
+              "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+              "location": "Yerevan, Armenia",
+              "date": "27 june, 2021"
+            },
+            { 
+                "id": "14", 
+              "name": "Reservation Agent",
+              "title": "Reservation Agent",
+              "img": "https://job.am/upload/logo/t_20495944logo.png", 
+              "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+              "location": "Yerevan, Armenia",
+              "date": "28 june, 2021"
+            },
+            { "id": "15", 
+              "name": "TriStar Transit INC",
+              "title": "Logistics coordinator (dispatcher)",
+              "img": "https://job.am/upload/logo/t_21423348logo.png", 
+              "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",              
+              "location": "Yerevan, Armenia",
+              "date": "24 june, 2021"
+            }
+    ],
+    "companies": [
+        {
+            "id": "1",
+            "name": "Reservation Agent", 
+            "e-mail": "reservation@gmail.com"
+        },
+        {
+            "id": "2",
+            "name": "TriStar Transit INC", 
+            "e-mail": "tristar@gmail.com"
+        },
+        {
+            "id": "3",
+            "name": "Art Production", 
+            "e-mail": "art@gmail.com"
+        },
+        {
+            "id": "4",
+            "name": "VENGE Engineering", 
+            "e-mail": "venge@gmail.com"
+        }
+    ]
+}

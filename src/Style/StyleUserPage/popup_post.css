@@ -1,0 +1,89 @@
+
+    .popupWrapPost {
+        position: fixed;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(84, 136, 233, 0.1);
+        z-index: 99;
+    }
+
+    .popup_post {
+        position: absolute;
+        display: flex;
+        width: 50%;
+        height: 40vh;
+        justify-content: center;
+        align-items: center;
+    /* font-size: 1.5vw; */
+    background-color:white;
+    border-radius: 2px;
+    top: 10vh;
+    left: 50%;
+    transform: translate(-50%, 50%);
+    transition-duration: 2s;
+    z-index: 999;
+    flex-direction: row;
+}
+
+.popup_post div {
+    height: 50%;
+}
+
+.popup_post span {
+    font-size: 15px;
+        position: absolute;
+        top:5%;
+        right: 3%;
+        color: rgba(20, 20, 20, 0.644);
+        cursor: pointer;
+        
+} 
+
+.popup_post span:hover {
+    font-size: 80%;
+    color: #73b7c3;
+}
+
+.popup_post input {
+    margin: 4% 0;
+    width: 60%;
+    height: 20%;
+    border: 1px solid darkgray;
+    border-radius: 2px;
+    outline: none;
+    padding: 1%;
+}
+
+.post_btn2 {
+    width: 20%;
+    height: 20%;
+    background:  #73b7c3;
+    color: white;
+    font-weight: bold;
+    font-size: 0.9rem;
+    border: 1px solid darkgray;
+    border-radius: 2px;
+    margin: 4% 0 4% 2%;
+    cursor: pointer;
+}
+
+.btn_upload {
+    width: 30%;
+    padding: 2%;
+    /* margin-left: 15%; */
+    color: #73b7c3;
+    font-weight: bold;
+    background-color:transparent;
+    border: 3px solid  #73b7c3;
+    border-radius: 3px;
+   position: absolute;
+   right: 5%;
+   bottom: 4%;
+    cursor: pointer;
+}
+
+.btn_upload:hover {
+    background-color:  rgba(63, 116, 116, 0.219);
+}

@@ -1,0 +1,41 @@
+.nav {
+    height: 40px;
+    width: 25%;
+    display: inline-block;
+}
+
+.nav_a span {
+    color: white;
+    font-size: 0.7rem;
+    text-decoration: none;  
+    transition: .2s;
+}
+
+.nav_a span:hover {
+    font-size: 80%;
+}
+
+.active_a {
+    border-bottom: 1px solid #73b7c3;
+   
+} 
+
+
+ul {
+    margin-left: 50px;
+    width: 40%;
+}
+input::placeholder {
+    padding: 25px;
+    size: 18px;
+  }
+  .nav_img {
+      /* width: 30%; */
+      height: 60%;
+      margin: 0;
+  }
+
+.activNav {
+    
+    border-bottom: 2px solid #73b7c3;
+}

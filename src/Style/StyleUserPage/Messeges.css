@@ -1,0 +1,105 @@
+.messeges{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.all-messeges {
+    border: 1px solid darkgray;
+    border-radius: 2px;
+    margin: 1%;
+    width: 30vw;
+    height: 85vh;
+    box-sizing: border-box;
+    overflow-y: scroll;
+}
+
+.messege {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    align-items: center;
+    padding: 2%;
+    margin: 2%;
+    border-bottom: darkgray;
+}
+
+.messege:hover {
+    background-color: rgba(38, 56, 82, 0.123);
+}
+
+.current-chat {
+    border: 1px solid darkgray;
+    border-radius: 2px;
+    margin: 1%;
+    width: 40vw;
+    height: 85vh;
+    box-sizing: border-box;
+}
+
+.current-chat-header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.profPic_pub_wrapper_big{
+    width: 15%;
+    position: relative;
+    padding-top: 15%;
+    border-radius: 50%;
+    margin: 1%;
+    display: inline-block;
+}
+
+.provportal-premium {
+    border: 1px solid darkgray;
+    border-radius: 2px;
+    margin: 1%;
+    padding: 10px;
+    width: 25vw;
+    height: 85vh;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+}
+
+.msg-cover {
+    width: 100%;
+    height: 30vh;
+    background-image: url(https://i.postimg.cc/k40rgLpC/msges.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.chat_wrapper_i {
+    display: flex;
+}
+
+.chat_Astghik {
+    text-align: left;
+    padding: 15px;
+    /* color: rgb(63, 63, 63); */
+    color: white;
+    border: 1px solid darkgray;
+    border-radius: 5%;
+    background-color: #969e3bc9;
+    width: 60%;
+}
+.chat_Tatev {
+    text-align: right;
+    padding: 15px;
+    /* color: rgb(63, 63, 63); */
+    color: white;
+    border: 1px solid darkgray;
+    border-radius: 5%;
+    background-color: #73b7c3;
+    width: 60%;
+    margin-left: 38%;
+}
+
+.chat-field {
+    padding: 5px;
+    overflow-y: scroll;
+    height: 70vh;
+}
